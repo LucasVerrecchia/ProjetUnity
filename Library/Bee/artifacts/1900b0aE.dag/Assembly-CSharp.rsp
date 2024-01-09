@@ -366,6 +366,7 @@
 "Assets/Scripts/PlatformScript.cs"
 "Assets/Scripts/PlayerInteractionScript.cs"
 "Assets/Scripts/QuakeLikeFPSScript.cs"
+"Assets/Scripts/RotateY.cs"
 "Assets/Scripts/VictoryAreaScript.cs"
 -langversion:9.0
 

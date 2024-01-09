@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: -0.66725063, y: 8.185859}
+  timeAreaShownRange: {x: -0.5675072, y: 8.285603}
   trackScale: 1
   playRangeEnabled: 0
   windowTime: 5.466666666666667
